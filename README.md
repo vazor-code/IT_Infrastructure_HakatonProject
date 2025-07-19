@@ -1,2 +1,2 @@
 # IT_Infrastructure_HakatonProject
-Ну что? Похимичим :D
+1. Папка Services - полное ТЗ КРОКа, prezaCROK - презентация, calculate_health.py - система "здоровья"
